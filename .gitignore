@@ -1,0 +1,11 @@
+
+# @yasinkuyu
+
+/app/config.py
+/db/orders.db
+
+**/env
+*.pyc
+.pyc
+.DS_Store
+.gitignore
